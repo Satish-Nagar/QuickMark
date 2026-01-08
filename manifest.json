@@ -1,0 +1,27 @@
+{
+  "name": "QuickMark - Smart Attendance System",
+  "short_name": "QuickMark",
+  "description": "India's No.1 EdTech Game Changer - Smart Attendance Automation System",
+  "start_url": "/student_attendance_system1/",
+  "display": "standalone",
+  "background_color": "#7f8ff4",
+  "theme_color": "#7f8ff4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "download.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "download.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+} 
